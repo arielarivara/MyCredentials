@@ -31,7 +31,6 @@
 
 <br/>
 <br/>
-<br/>
 
 ![Microsoft Applied Skills](https://img.shields.io/badge/Microsoft-Applied%20Skills-lightblue?style=for-the-badge&logo=microsoft)
 - [Microsoft Applied Skills: Secure AI Solutions in the Cloud](https://learn.microsoft.com/api/credentials/share/en-gb/arielarivara/7E466DCBA7A3259A?sharingId=D77F9F30FC2191F2)
