@@ -1,6 +1,6 @@
 ![# Microsoft Certifications](https://img.shields.io/badge/Microsoft-Certifications-lightblue?style=for-the-badge&logo=microsoft)
 
-![## Active](https://img.shields.io/badge/Active-0000FF?style=flat-square)
+![Active](https://img.shields.io/badge/Active-0000FF?style=flat-square)
 
 
 - [(AZ-800 & AZ-801) Microsoft Certified: Windows Server Hybrid Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-gb/arielarivara/38F184F6DC578967?sharingId=D77F9F30FC2191F2)
