@@ -17,7 +17,7 @@
 - [(MS-203) Microsoft 365 Certified: Messaging Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-gb/arielarivara/A6E26DBA9C6A5F3B?sharingId=D77F9F30FC2191F2)
 - [(SC-400) Microsoft Certified: Information Protection and Compliance Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-gb/arielarivara/BFB9F8DE4A9449A?sharingId=D77F9F30FC2191F2)
 - [(MS-720) Microsoft 365 Certified: Teams Voice Engineer Expert](https://learn.microsoft.com/api/credentials/share/en-gb/arielarivara/D059894D74E56A2B?sharingId=D77F9F30FC2191F2)
-<br/>
+<br/><br/>
 
 
 ![Microsoft Applied Skills](https://img.shields.io/badge/Microsoft-Applied%20Skills-lightblue?style=for-the-badge&logo=microsoft)
