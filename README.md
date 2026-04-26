@@ -1,24 +1,62 @@
 ![# Microsoft Certifications](https://img.shields.io/badge/Microsoft-Certifications-lightblue?style=for-the-badge&logo=microsoft)
 
-![## Active](https://readme-typing-svg.herokuapp.com?color=0000FF&lines=Active)
+![## Active](https://img.shields.io/badge/Active-0000FF?style=flat-square)
+
+
+- [(AZ-800 & AZ-801)Microsoft Certified: Windows Server Hybrid Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-gb/arielarivara/38F184F6DC578967?sharingId=D77F9F30FC2191F2)
+- [(AZ-700)Microsoft Certified: Azure Network Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-gb/arielarivara/BDAA013325CD33AC?sharingId=D77F9F30FC2191F2)
+- [(AZ-500)Microsoft Certified: Azure Security Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-gb/arielarivara/69D02E0F7FFF87C6?sharingId=D77F9F30FC2191F2)
 - [(AZ-400) Microsoft Certified: DevOps Engineer Expert](https://learn.microsoft.com/api/credentials/share/en-gb/arielarivara/637F5F0C37D50166?sharingId=D77F9F30FC2191F2)
+- [(AZ-305)Microsoft Certified: Azure Solutions Architect Expert](https://learn.microsoft.com/api/credentials/share/en-gb/arielarivara/9A5D0FEFC8884A9A?sharingId=D77F9F30FC2191F2)
+- [(AZ-140)Microsoft Certified: Azure Virtual Desktop Specialty](https://learn.microsoft.com/api/credentials/share/en-gb/arielarivara/869F6AE8E3709D49?sharingId=D77F9F30FC2191F2)
 - [(AZ-104) Microsoft Certified: Azure Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-gb/arielarivara/64CB6BE76893E2F9?sharingId=D77F9F30FC2191F2)
 - [(AZ-900) Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-gb/arielarivara/D377E0A90CF4C007?sharingId=D77F9F30FC2191F2)
 - [(MS-102) Microsoft Certified: DevOps Engineer Expert](https://learn.microsoft.com/api/credentials/share/en-gb/arielarivara/2D96E301DD89A034?sharingId=D77F9F30FC2191F2)
 - [(MS-721)Microsoft 365 Certified: Collaboration Communications Systems Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-gb/arielarivara/E7308196E3E443F6?sharingId=D77F9F30FC2191F2)
+- [(MD-102)Microsoft 365 Certified: Endpoint Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-gb/arielarivara/7889D728CAA2F84E?sharingId=D77F9F30FC2191F2)
 - [(MS-700) Microsoft 365 Certified: Teams Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-gb/arielarivara/938F7A0559CA9B9E?sharingId=D77F9F30FC2191F2)
 - [(SC-100) Microsoft Certified: Cybersecurity Architect Expert](https://learn.microsoft.com/api/credentials/share/en-gb/arielarivara/2F2CC8604F7E8121?sharingId=D77F9F30FC2191F2)
+- [(SC-300)Microsoft Certified: Identity and Access Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-gb/arielarivara/C818639DE3DCB347?sharingId=D77F9F30FC2191F2)
+- [(SC-200)Microsoft Certified: Security Operations Analyst Associate](https://learn.microsoft.com/api/credentials/share/en-gb/arielarivara/4C2ACB46BE007B64?sharingId=D77F9F30FC2191F2)
 - [(SC-900) Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://learn.microsoft.com/api/credentials/share/en-gb/arielarivara/2D8E94C3CAA64508?sharingId=D77F9F30FC2191F2)
 
+<br/>
 
-![Retired](https://readme-typing-svg.herokuapp.com?color=FFA500&lines=Retired)
-- [(MS-900) Microsoft 365 Certified: Fundamentals](https://learn.microsoft.com/api/credentials/share/en-gb/arielarivara/9E5FC525CFD11800?sharingId=D77F9F30FC2191F2)
-- [(MS-500) Microsoft 365 Certified: Security Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-gb/arielarivara/1E7D4953F7156AF8?sharingId=D77F9F30FC2191F2)
-- [(MS-203) Microsoft 365 Certified: Messaging Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-gb/arielarivara/A6E26DBA9C6A5F3B?sharingId=D77F9F30FC2191F2)
+![Retired](https://img.shields.io/badge/Retired-FF0000?style=flat-square)
 - [(SC-400) Microsoft Certified: Information Protection and Compliance Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-gb/arielarivara/BFB9F8DE4A9449A?sharingId=D77F9F30FC2191F2)
 - [(MS-720) Microsoft 365 Certified: Teams Voice Engineer Expert](https://learn.microsoft.com/api/credentials/share/en-gb/arielarivara/D059894D74E56A2B?sharingId=D77F9F30FC2191F2)
-<br/><br/>
+- [(MS-500) Microsoft 365 Certified: Security Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-gb/arielarivara/1E7D4953F7156AF8?sharingId=D77F9F30FC2191F2)
+- [(MS-203) Microsoft 365 Certified: Messaging Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-gb/arielarivara/A6E26DBA9C6A5F3B?sharingId=D77F9F30FC2191F2)
+- [(MS-900) Microsoft 365 Certified: Fundamentals](https://learn.microsoft.com/api/credentials/share/en-gb/arielarivara/9E5FC525CFD11800?sharingId=D77F9F30FC2191F2)
 
+<br/>
+<br/>
+<br/>
 
 ![Microsoft Applied Skills](https://img.shields.io/badge/Microsoft-Applied%20Skills-lightblue?style=for-the-badge&logo=microsoft)
-
+- [Microsoft Applied Skills: Secure AI Solutions in the Cloud](https://learn.microsoft.com/api/credentials/share/en-gb/arielarivara/7E466DCBA7A3259A?sharingId=D77F9F30FC2191F2)
+- [Microsoft Applied Skills: Streamline business workflows with AI chat](https://learn.microsoft.com/api/credentials/share/en-gb/arielarivara/6F2014B73C25AAD8?sharingId=D77F9F30FC2191F2)
+- [Microsoft Applied Skills: Generate reports with AI research agents](https://learn.microsoft.com/api/credentials/share/en-gb/arielarivara/37DD16857B12AA69?sharingId=D77F9F30FC2191F2)
+- [Microsoft Applied Skills: Create an AI agent](https://learn.microsoft.com/api/credentials/share/en-gb/arielarivara/BA02890C617E59DC?sharingId=D77F9F30FC2191F2)
+- [Microsoft Applied Skills: Deploy and manage Microsoft Azure Arc–enabled servers](https://learn.microsoft.com/api/credentials/share/en-gb/arielarivara/8CC3C79E4211789C?sharingId=D77F9F30FC2191F2)
+- [Microsoft Applied Skills: Deploy cloud-native apps using Azure Container Apps](https://learn.microsoft.com/api/credentials/share/en-gb/arielarivara/BDD8540894D259AE?sharingId=D77F9F30FC2191F2)
+- [Microsoft Applied Skills: Deploy containers by using Azure Kubernetes Service](https://learn.microsoft.com/api/credentials/share/en-gb/arielarivara/F08A72D894E9A792?sharingId=D77F9F30FC2191F2)
+- [Microsoft Applied Skills: Implement security through a pipeline using Azure DevOps](https://learn.microsoft.com/api/credentials/share/en-gb/arielarivara/441B7CFBC5B09035?sharingId=D77F9F30FC2191F2)
+- [Microsoft Applied Skills: Migrate SQL Server workloads to Azure SQL Database](https://learn.microsoft.com/api/credentials/share/en-gb/arielarivara/F83DD57A7BCBC262?sharingId=D77F9F30FC2191F2)
+- [Microsoft Applied Skills: Configure SIEM security operations using Microsoft Sentinel](https://learn.microsoft.com/api/credentials/share/en-gb/arielarivara/9D45BCAD3D60F7DA?sharingId=D77F9F30FC2191F2)
+- [Microsoft Applied Skills: Secure Azure services and workloads with Microsoft Defender for Cloud regulatory compliance controls](https://learn.microsoft.com/api/credentials/share/en-gb/arielarivara/76E56323DD734B4F?sharingId=D77F9F30FC2191F2)
+- [Microsoft Applied Skills: Configure secure access to your workloads using Azure networking](https://learn.microsoft.com/api/credentials/share/en-gb/arielarivara/36C267C273B4E392?sharingId=D77F9F30FC2191F2)
+- [Microsoft Applied Skills: Deploy and configure Azure Monitor](https://learn.microsoft.com/api/credentials/share/en-gb/arielarivara/E48AB7DB9E6787A9?sharingId=D77F9F30FC2191F2)
+- [Microsoft Applied Skills: Deploy and administer Linux virtual machines on Microsoft Azure](https://learn.microsoft.com/api/credentials/share/en-gb/arielarivara/9F7FFB9BD42ED3BB?sharingId=D77F9F30FC2191F2)
+- [Microsoft Applied Skills: Secure storage for Azure Files and Azure Blob Storage](https://learn.microsoft.com/api/credentials/share/en-gb/arielarivara/1A3D2AB65C8EFBD7?sharingId=D77F9F30FC2191F2)
+- [Microsoft Applied Skills: Get started with cloud security and monitoring tasks](https://learn.microsoft.com/api/credentials/share/en-gb/arielarivara/8D467F37F3279487?sharingId=D77F9F30FC2191F2)
+- [Microsoft Applied Skills: Get started with Azure management tasks](https://learn.microsoft.com/api/credentials/share/en-gb/arielarivara/DB10746F374B092F?sharingId=D77F9F30FC2191F2)
+- [Microsoft Applied Skills: Get started with identities and access using Microsoft Entra](https://learn.microsoft.com/api/credentials/share/en-gb/arielarivara/F1B99BECD272C3B6?sharingId=D77F9F30FC2191F2)
+- [Microsoft Applied Skills: Prepare security and compliance to support Microsoft 365 Copilot](https://learn.microsoft.com/api/credentials/share/en-gb/arielarivara/DB04489D6C0D7BCB?sharingId=D77F9F30FC2191F2)
+- [Microsoft Applied Skills: Administer Active Directory Domain Services](https://learn.microsoft.com/api/credentials/share/en-gb/arielarivara/8158B628542B85ED?sharingId=D77F9F30FC2191F2)
+- [Microsoft Applied Skills: Defend against cyberthreats with Microsoft Defender XDR](https://learn.microsoft.com/api/credentials/share/en-gb/arielarivara/148D8961EC52A8B9?sharingId=D77F9F30FC2191F2)
+- [Microsoft Applied Skills: Implement information protection and data loss prevention by using Microsoft Purview](https://learn.microsoft.com/api/credentials/share/en-gb/arielarivara/14EEF67CA511287D?sharingId=D77F9F30FC2191F2)
+- [Microsoft Applied Skills: Create and manage model-driven apps with Power Apps and Dataverse](https://learn.microsoft.com/api/credentials/share/en-gb/arielarivara/560EDD4C43F3E98?sharingId=D77F9F30FC2191F2)
+- [Microsoft Applied Skills: Create and manage automated processes by using Power Automate](https://learn.microsoft.com/api/credentials/share/en-gb/arielarivara/F465BBD5610DFB73?sharingId=D77F9F30FC2191F2)
+- [Microsoft Applied Skills: Create and manage canvas apps with Power Apps](https://learn.microsoft.com/api/credentials/share/en-gb/arielarivara/80B5FC6DA0724276?sharingId=D77F9F30FC2191F2)
+- [Microsoft Applied Skills: Implement retention, eDiscovery, and Communication Compliance in Microsoft Purview](https://learn.microsoft.com/api/credentials/share/en-gb/arielarivara/95187DD99371440E?sharingId=D77F9F30FC2191F2)
